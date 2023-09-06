@@ -1,5 +1,5 @@
 using Documenter
-using Amlet
+using SMARAGD
 
 makedocs(
     sitename = "Smaragd",
@@ -12,5 +12,5 @@ makedocs(
 # for more information.
 deploydocs(
     repo = "github.com/JeremyRieussec/SMARAGD.jl",
-    # devbranch = "dev",
+    devbranch = "dev",
 )
