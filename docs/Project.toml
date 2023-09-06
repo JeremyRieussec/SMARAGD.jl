@@ -1,0 +1,6 @@
+[deps]
+Amlet = "c2ffc8e4-82bc-438e-80c0-8adc2aad9fd7"
+Charlotte = "484557e0-8ed7-4edb-961b-5ed3774d3299"
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+ENLPModels = "40a49f02-5bca-4b67-9829-87357810e07c"
+RDST = "dc077566-edc2-11e8-0ce0-7d758bb9a5d1"
